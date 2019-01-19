@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(0, 174, 255, 0.418);
+}
+h2{
+    color: rgba(77, 0, 221, 0.842);
+    text-align: center;
+}
+    
+    
+h4{
+    color: blueviolet;
+    font-weight: bolder;
+    
+}
+form{
+    border-radius: 10px;
+    border: 2px solid #aaa;
+    display: inline-block;
+    font-weight: bolder;
+    margin: 3em auto;
+    width: 20%;
+    
+
+}
+
+input[type="submit"]{
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: bolder;
+    cursor: pointer;
+    padding: 0.5em;
+    
+}
+img{
+	border-radius: 50%;
+	display:inline-block;
+	width: 200px;
+	height: auto;    
+   
+
+}
+div{
+    background: #ccc;
+
+}
+p{
+    font-size: 12px;
+    display:block;
+    width:100%
+}
